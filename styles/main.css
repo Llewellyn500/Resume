@@ -176,6 +176,10 @@
       color: var(--mainLinkColor);
   
   }
+
+  .back {
+    margin-top: 60px;
+  }
   
   @media(max-width:600px){
   
