@@ -2,10 +2,10 @@
 
 :root {
   --mainTextColor: #fff;
-  --secondaryTextColor: #adb0b1;
+  --secondaryTextColor: #e4e4e4;
   --mainLinkColor: #2196f3;
   --mainBorderColor: #2b3031;
-  --mainBgColor: rgb(20, 20, 19);
+  --mainBgColor: #24242e;
 }
 
 * {
