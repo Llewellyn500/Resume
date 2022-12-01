@@ -2,7 +2,7 @@
 
 :root {
   --mainTextColor: #fff;
-  --secondaryTextColor: #c7c7c7;
+  --secondaryTextColor: #d4d4d4;
   --mainLinkColor: #2196f3;
   --mainBorderColor: #2b3031;
   --mainBgColor: #141413;
@@ -199,5 +199,11 @@ li {
   .card--work-history {
     border-left: none;
     padding-left: 0;
+  }
+}
+
+@media (max-width: 695px) {
+  .typing::after {
+    display: none;
   }
 }
