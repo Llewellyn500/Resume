@@ -68,6 +68,16 @@ a {
   font-weight: 900;
   transition: 0.2s;
 }
+.link_btn {
+  padding: 0.5em 1em;
+  border-radius: 6px;
+  margin-top: 1em;
+  border: 2px solid var(--mainLinkColor);
+}
+.link_btn:hover {
+  background-color: var(--mainLinkColor);
+  color: var(--mainTextColor);
+}
 
 a:hover {
   color: var(--mainTextColor);
