@@ -3,7 +3,7 @@
 :root {
   --mainTextColor: #fff;
   --secondaryTextColor: #d4d4d4;
-  --mainLinkColor: #2196f3;
+  --mainLinkColor: #8a2be2;
   --mainBorderColor: #2b3031;
   --mainBgColor: #141413;
 }
@@ -188,6 +188,16 @@ li {
 
 .back {
   margin-top: 60px;
+}
+
+#project-image {
+  width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
+
+ul {
+  margin-bottom: 3rem;
 }
 
 @media (max-width: 600px) {
